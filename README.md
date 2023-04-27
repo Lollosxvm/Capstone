@@ -35,6 +35,6 @@
 
 ```
 
-| (c)`<2023>`, `<Lorenzo Sijinardi>` |
-| :------------------------------------: |
-|    Tutti i diritti sono riservati     |
+| Copyright (c)`<2023>`, `<Lorenzo Sijinardi>` |
+| :----------------------------------------------: |
+|          Tutti i diritti sono riservati          |
