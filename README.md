@@ -1,9 +1,4 @@
-# Progetto Finale - Epicode - Lorenzo Sijinardi
-
-[![Test status](https://github.com/PHPMailer/PHPMailer/workflows/Tests/badge.svg)](https://github.com/PHPMailer/PHPMailer/actions)
-[![Latest Stable Version](https://poser.pugx.org/phpmailer/phpmailer/v/stable.svg)](https://packagist.org/packages/phpmailer/phpmailer)
-[![API Docs](https://github.com/phpmailer/phpmailer/workflows/Docs/badge.svg)](https://phpmailer.github.io/PHPMailer/)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/PHPMailer/PHPMailer/badge)](https://api.securityscorecards.dev/projects/github.com/PHPMailer/PHPMailer)
+# Progetto Finale - Epicode - [Lorenzo Sijinardi](https://www.linkedin.com/in/lorenzo-sijinardi/)
 
 ## Sommario
 
@@ -22,7 +17,6 @@
 * Workbench
 ```
 
-
 ## Funzionalità
 
 ```
@@ -35,6 +29,6 @@
 
 ```
 
-| Copyright (c)`<2023>`, `<Lorenzo Sijinardi>` |
-| :----------------------------------------------: |
-|          Tutti i diritti sono riservati          |
+| (c)`<2023>`, `<Lorenzo Sijinardi>`<br />Tutti i diritti sono riservati |
+| :------------------------------------------------------------------------: |
+|                                                                            |
